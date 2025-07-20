@@ -1,9 +1,13 @@
+# Eigenschaften von Nova Stellaris
+
 Stärken:
-- Analytisch denkend
-- Technologisch hochversiert
-- Teamfähig
+- Hochintelligent und technikversiert
+- Mutig in Extremsituationen
+- Sehr analytisch und lösungsorientiert
+- Loyal gegenüber ihrer Crew
 
 Schwächen:
-- Impulsiv
-- Technik-verliebt
-- Sarkastisch
+- Impulsiv, handelt manchmal zu schnell
+- Neigt zu Sarkasmus in Stresssituationen
+- Hat eine heimliche Angst vor der Tiefsee
+- Technikverliebt – vergisst manchmal das Zwischenmenschliche
