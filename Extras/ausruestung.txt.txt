@@ -1,6 +1,0 @@
-- Plasma-Multitool
-- Grav-Sprungstiefel
-- Kommunikationsimplantat
-- Notfall-Drohne
-- Energie-Scanner
-- Nanofeldanzug
